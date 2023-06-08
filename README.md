@@ -1,5 +1,5 @@
 # SimpleLannetwork
-ADME.md
+README.md
 Building-a-simple-Lan exercise
 
 Components For the local network 1 router 1 switch 3 PCs To simulate internet access 1 external router 1 web server To simulate website access 1 DNS server Step-by-step configuration Link the PCs together The 3 PCs are linked to the switch's first 3 ports (FastEthernet 0/1 0/2 0/3) through their FastEthernet0 port. I've attributed the ips/subnets masks to the PCs' interfaces as instructed and made sure the interfaces were up on both them and the switch.
